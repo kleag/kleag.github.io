@@ -1,5 +1,5 @@
 ---
-title: Paper accepted at Automation in Construction
+title: First-Author Paper accepted at Automation in Construction
 date: 2025-10-05 00:00:00 +0800
 ---
 
