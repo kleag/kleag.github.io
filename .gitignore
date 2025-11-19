@@ -1,4 +1,15 @@
+# Jekyll build output - DO NOT edit files in _site/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Temporary files
 CPU.mp4
 GPU.mkv
 compare.mp4
 temp.py
+
+# OS files
+.DS_Store
+Thumbs.db
+INSTRUCTIONS.txt

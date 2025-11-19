@@ -1,0 +1,35 @@
+# Site settings
+title: Nasrullah Khan - Academic Homepage
+description: Personal academic homepage of Nasrullah Khan
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nasazzam.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Collections
+collections:
+  publications:
+    output: false
+    sort_by: date
+  news:
+    output: false
+    sort_by: date
+  showcase:
+    output: false
+
+# Plugins
+plugins:
+  - jekyll-email-protect
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - index_backup.html
