@@ -4,8 +4,8 @@ pages:
     url: /
   - name: Publications
     url: /publications
-  - name: Awards
-    url: /awards
+  # - name: Awards
+  #   url: /awards
   # - name: Peer Review
   #   url: /peer-review
   - name: About
