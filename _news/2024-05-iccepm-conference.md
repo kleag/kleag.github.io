@@ -1,5 +1,5 @@
 ---
-title: Attended ICCEPM 2024 in Sapporo
+title: Attended ICCEPM 2024 in Sapporo, Japan
 date: 2024-05-01 00:00:00 +0800
 ---
 

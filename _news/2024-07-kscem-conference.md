@@ -1,5 +1,5 @@
 ---
-title: Attended KSCEM Conference in Jeju
+title: Attended KSCEM Conference in Jeju, Korea
 date: 2024-07-01 00:00:00 +0800
 ---
 
