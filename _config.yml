@@ -11,7 +11,7 @@ permalink: /:year/:month/:day/:title/
 # Collections
 collections:
   publications:
-    output: false
+    output: true
     sort_by: date
   news:
     output: false
