@@ -1,4 +1,5 @@
 ---
+selected: true
 title: "Semantic similarity to improve question understanding in a virtual patient"
 authors:
   - Fréjus A. A. Laleye

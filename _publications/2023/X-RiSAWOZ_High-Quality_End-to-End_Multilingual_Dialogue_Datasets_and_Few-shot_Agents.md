@@ -1,4 +1,5 @@
 ---
+selected: true
 title: "X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents"
 authors:
   - Mehrad Moradshahi
