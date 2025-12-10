@@ -8,6 +8,7 @@ date: 2013-01-01
 venue: "Proceedings of the 6th {Language} \& {Technology} {Conference}, {LTC} 2013"
 venue_short: "Proceedings 6th"
 type: conference
+selected: false
 links:
 
 ---

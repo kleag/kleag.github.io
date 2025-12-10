@@ -6,6 +6,7 @@ date: 2009-01-01
 venue: "Rencontres {Mondiales} du {Logicel} {Libre}"
 venue_short: "Rencontres {Mondiales}"
 type: conference
+selected: false
 links:
   paper: http://2009.rmll.info/IMG/pdf/GaeldeChalendar_UIMA_LSM09_paper.pdf
 ---

@@ -16,6 +16,7 @@ date: 2010-01-01
 venue: "Content-{Based} {Multimedia} {Indexing} ({CBMI}), 2010 {International} {Workshop} on"
 venue_short: "Content-{Based} {Multimedia}"
 type: conference
+selected: false
 links:
 
 ---

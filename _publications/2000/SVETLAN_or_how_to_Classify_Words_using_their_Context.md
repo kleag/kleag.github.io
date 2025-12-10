@@ -7,6 +7,7 @@ date: 2000-01-01
 venue: ""
 venue_short: ""
 type: book_chapter
+selected: false
 links:
 
 ---

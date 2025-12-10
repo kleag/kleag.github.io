@@ -7,6 +7,7 @@ date: 2009-01-01
 venue: "Proceedings of the {Workshop} on {Software} {Engineering}, {Testing}, and {Quality} {Assurance} for {Natural} {Language} {Processing} ({SETQA}-{NLP} 2009)"
 venue_short: "Proceedings {Workshop}"
 type: conference
+selected: false
 links:
   paper: http://www.aclweb.org/anthology/W09-1511
 ---

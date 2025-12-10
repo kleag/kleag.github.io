@@ -10,6 +10,7 @@ date: 2019-01-01
 venue: "Actes de la {Conférence} sur le {Traitement} {Automatique} des {Langues} {Naturelles} ({TALN}) {PFIA} 2019. {Volume} {II} : {Articles} courts"
 venue_short: "Actes de"
 type: conference
+selected: false
 links:
   paper: https://aclanthology.org/2019.jeptalnrecital-court.17
 ---

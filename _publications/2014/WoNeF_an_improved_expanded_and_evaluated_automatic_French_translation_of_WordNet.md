@@ -9,6 +9,7 @@ date: 2014-01-01
 venue: "Proceedings of the 7th {International} {Global} {Wordnet} {Conference} ({GWC} 2014)"
 venue_short: "Proceedings 7th"
 type: conference
+selected: false
 links:
 
 ---

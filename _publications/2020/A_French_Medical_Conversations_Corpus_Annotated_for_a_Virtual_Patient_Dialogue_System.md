@@ -10,6 +10,7 @@ date: 2020-01-01
 venue: "Proceedings of {The} 12th {Language} {Resources} and {Evaluation} {Conference}"
 venue_short: "Proceedings {The}"
 type: conference
+selected: false
 links:
   paper: https://www.aclweb.org/anthology/2020.lrec-1.72
 ---

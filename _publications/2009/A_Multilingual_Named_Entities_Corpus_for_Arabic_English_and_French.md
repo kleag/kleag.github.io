@@ -10,6 +10,7 @@ date: 2009-01-01
 venue: "Proceedings of the {Second} {International} {Conference} on {Arabic} {Language} {Resources} and {Tools}"
 venue_short: "Proceedings {Second}"
 type: conference
+selected: false
 links:
 
 ---

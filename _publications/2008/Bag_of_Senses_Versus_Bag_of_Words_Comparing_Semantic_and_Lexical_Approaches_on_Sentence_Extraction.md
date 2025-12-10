@@ -9,6 +9,7 @@ date: 2008-01-01
 venue: "Text {Analysis} {Conference}"
 venue_short: "Text {Analysis}"
 type: conference
+selected: false
 links:
   paper: http://www.nist.gov/tac/publications/2008/participant.papers/ceaList.proceedings.pdf
 ---

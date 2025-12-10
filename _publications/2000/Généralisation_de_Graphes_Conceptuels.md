@@ -8,6 +8,7 @@ date: 2000-01-01
 venue: "12° {Congrès} {Francophone} {AFRIF}-{AFIA}, {RFIA}'2000"
 venue_short: "1{{{"
 type: conference
+selected: false
 links:
 
 ---

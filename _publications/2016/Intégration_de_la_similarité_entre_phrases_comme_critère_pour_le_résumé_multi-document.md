@@ -8,6 +8,7 @@ date: 2016-01-01
 venue: "23ème {Conférence} sur le {Traitement} {Automatique} des {Langues} {Naturelles} ({JEP}-{TALN}-{RECITAL} 2016)"
 venue_short: "2{SL"
 type: conference
+selected: false
 links:
 
 ---

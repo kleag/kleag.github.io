@@ -7,6 +7,7 @@ date: 2020-01-01
 venue: "Computational {Linguistics} and {Intellectual} {Technologies}: {Proceedings} of the {International} {Conference} “{Dialogue} 2020”"
 venue_short: "Computational {Linguistics}"
 type: conference
+selected: false
 links:
   paper: https://www.dialog-21.ru/en/digest/2020/articles/
 ---

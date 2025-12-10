@@ -11,6 +11,7 @@ date: 2011-01-01
 venue: "Proceedings of the 2011 workshop on {Data} {infrastructurEs} for supporting information retrieval evaluation"
 venue_short: "Proceedings 2011"
 type: conference
+selected: false
 links:
 
 ---

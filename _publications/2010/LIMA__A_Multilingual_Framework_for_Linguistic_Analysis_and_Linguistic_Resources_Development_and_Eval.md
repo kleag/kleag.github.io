@@ -10,6 +10,7 @@ date: 2010-01-01
 venue: "Proceedings of {Language} {Resources} and {Evaluation} {Conference}, 2010"
 venue_short: "Proceedings {Language}"
 type: conference
+selected: false
 links:
 
 ---

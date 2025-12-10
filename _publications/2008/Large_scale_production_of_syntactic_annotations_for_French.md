@@ -11,6 +11,7 @@ date: 2008-01-01
 venue: "Proceedings of the international workshop on {Automated} {Syntactic} {Annotations} for {Interoperable} {Language} {Resources}, {Hong}-{Kong}."
 venue_short: "Proceedings international"
 type: conference
+selected: false
 links:
 
 ---

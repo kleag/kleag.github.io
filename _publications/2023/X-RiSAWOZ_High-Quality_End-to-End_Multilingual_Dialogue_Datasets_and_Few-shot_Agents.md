@@ -1,5 +1,4 @@
 ---
-selected: true
 title: "X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents"
 authors:
   - Mehrad Moradshahi
@@ -25,6 +24,7 @@ date: 2023-01-01
 venue: "Findings of the {Association} for {Computational} {Linguistics}: {ACL} 2023"
 venue_short: "Findings {Association}"
 type: conference
+selected: false
 links:
   paper: https://aclanthology.org/2023.findings-acl.174
 ---

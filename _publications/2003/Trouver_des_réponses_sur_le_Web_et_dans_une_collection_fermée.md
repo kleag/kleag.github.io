@@ -15,6 +15,7 @@ date: 2003-01-01
 venue: "Workshop sur la Recherche d'information, un passage à l'échelle, Conférence INFORSID"
 venue_short: "WRCI"
 type: journal
+selected: false
 links:
 
 ---

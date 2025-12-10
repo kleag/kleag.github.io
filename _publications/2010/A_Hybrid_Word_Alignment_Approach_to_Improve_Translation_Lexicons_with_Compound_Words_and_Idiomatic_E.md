@@ -10,6 +10,7 @@ date: 2010-01-01
 venue: "ASLIB"
 venue_short: "ASLIB"
 type: book
+selected: false
 links:
 
 ---

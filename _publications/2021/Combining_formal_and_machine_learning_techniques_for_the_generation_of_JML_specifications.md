@@ -8,6 +8,7 @@ date: 2021-01-01
 venue: "Proceedings of the 23rd {ACM} {International} {Workshop} on {Formal} {Techniques} for {Java}-like {Programs}"
 venue_short: "Proceedings 23rd"
 type: conference
+selected: false
 links:
   paper: https://doi.org/10.1145/3464971.3468425
 ---

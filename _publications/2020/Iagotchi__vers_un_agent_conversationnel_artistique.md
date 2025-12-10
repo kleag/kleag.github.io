@@ -9,6 +9,7 @@ date: 2020-01-01
 venue: "6e conférence conjointe {Journées} d'Études sur la {Parole} ({JEP}, 33e édition), {Traitement} {Automatique} des {Langues} {Naturelles} ({TALN}, 27e édition), {Rencontre} des Étudiants {Chercheurs} en {Informatique} pour le {Traitement} {Automatique} des {Langues} ({RÉCITAL}, 22e édition)"
 venue_short: "6e conférence"
 type: conference
+selected: false
 links:
   paper: https://hal.archives-ouvertes.fr/hal-02768509
 ---

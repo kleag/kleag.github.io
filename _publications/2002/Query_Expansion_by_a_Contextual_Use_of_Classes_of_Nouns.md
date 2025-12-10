@@ -7,6 +7,7 @@ date: 2002-01-01
 venue: "{LREC} 2002 {Workshop} on {Creating} and {Using} {Semantics} for {Information} {Retrieval} and {Filtering}. {State} of the {Art} and {Future} {Research}."
 venue_short: "{2{{"
 type: conference
+selected: false
 links:
 
 ---

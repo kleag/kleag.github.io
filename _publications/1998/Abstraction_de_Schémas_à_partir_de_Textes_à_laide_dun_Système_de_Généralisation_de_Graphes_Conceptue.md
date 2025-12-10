@@ -8,6 +8,7 @@ date: 1998-01-01
 venue: "Assises du Réseau I.d.F. des Sc.Co."
 venue_short: "ARIS"
 type: conference
+selected: false
 links:
 
 ---

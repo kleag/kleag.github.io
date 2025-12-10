@@ -7,6 +7,7 @@ date: 2002-01-01
 venue: "13ème journées francophones d'{Ingéniérie} des connaissances, {IC}'2002"
 venue_short: "1JFD"
 type: conference
+selected: false
 links:
 
 ---
