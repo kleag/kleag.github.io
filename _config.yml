@@ -1,8 +1,8 @@
 # Site settings
-title: Nasrullah Khan - Academic Homepage
-description: Personal academic homepage of Nasrullah Khan
+title: Gaël de Chalendar - Academic Homepage
+description: Personal academic homepage of Gaël de Chalendar
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nasazzam.github.io" # the base hostname & protocol for your site
+url: "https://kleag.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

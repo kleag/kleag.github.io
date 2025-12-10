@@ -6,7 +6,7 @@ pages:
     url: /publications
   # - name: Awards
   #   url: /awards
-  # - name: Peer Review
-  #   url: /peer-review
+  - name: Peer Review
+    url: /peer-review
   - name: About
     url: /about
