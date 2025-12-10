@@ -30,14 +30,14 @@ short_bio_text_justify: true
 # Education
 education:
   - name: Orsay University
-    #logo: /assets/images/badges/cau_logo.png
+    logo: /assets/images/badges/logo-u-psud_UFR-Orsay.webp
     position: PhD
     date: 1997 - 2001
 
 # Experience
 experience:
   - name: CEA List, Paris-Saclay University, Text and Images Semantic Analysis Laboratory (LASTI)
-    #logo: /assets/images/badges/iruri-labs.png
+    logo: /assets/images/badges/logo_cea_upsac-2751265649.jpg
     position: Researcher
     date: Sep. 2002 - present
 
