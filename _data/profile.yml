@@ -45,26 +45,34 @@ experience:
 supervised_phd:
   - name:
     title: Internalisation des connaissances externes dans les modèles de fondation.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: En cours (2026-)
   - name: Arthur Peuvot
     title: Automatic modelling language variations for socially responsive robots.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: En cours (2025-)
   - name: Galo Castillo
     title: Assistant conversationnel réaliste.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: En cours (2023-)
   - name: Achir Oukelmoun
     title: Développement d’un modèle de TAL spécialisé dans la chirurgie hépatique avec application dans la structuration des données et la mise en place d’un chatbot destiné à augmenter les chirurgiens.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: En cours (2022-)
   - name: Jessic López Espejel
     title: Résumé automatique abstractif des textes médicaux longs avec un Transformer à multi-encodeurs et évaluation de résumé du domaine général avec wikiSERA.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: 2021
   - name: Maâli Mnasri
     title: Résumé automatique multi-document dynamique.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: 2018
   - name: Quentin Pradet
     title: Annotation en rôles sémantiques du français en domaine spécialisé.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: 2015
   - name: Claire Mouton
     title: Ressources et méthodes semi-supervisées pour l’analyse sémantique de texte en français.
+    logo: https://commons.wikimedia.org/wiki/File:Graduation_cap.png
     year: 2010
 
