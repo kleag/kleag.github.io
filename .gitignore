@@ -1,3 +1,4 @@
+*.s
 *swp
 
 # Jekyll build output - DO NOT edit files in _site/
