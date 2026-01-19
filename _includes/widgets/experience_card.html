@@ -43,6 +43,26 @@
                     </div>
                     {% endif %}
 
+                    {% if site.data.profile.supervised_phd %}
+                    <div class="col-lg-6">
+                        <div class="mx-2 my-1">
+                            <h6>Supervised PhD Students</h6>
+                            <ul class="list-unstyled mb-1">
+                                {% for item in site.data.profile.supervised_phd %}
+                                <li class="media mb-3">
+                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 50px; height: 50px; object-fit: contain;" class="mr-3 mt-1">
+                                    <div class="media-body">
+                                        <div class="font-weight-bold">{{ item.name }}</div>
+                                        <div class="small text-muted">{{ item.title }}</div>
+                                        <div class="small"><em>{{ item.year }}</em></div>
+                                    </div>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    {% endif %}
+
                     {% if site.data.profile.awards %}
                     <div class="col-lg-6">
                         <div class="mx-2 my-1">
