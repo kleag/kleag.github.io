@@ -3,8 +3,8 @@ title: "A Hybrid Word Alignment Approach to Improve Translation Lexicons with Co
 authors:
   - Nasredine Semmar
   - Christophe Servan
-  - Gaël Chalendar
-  - Benoît Le Ny
+  - Ga{\"e}l {de Chalendar}
+  - Beno{\^i}t Le Ny
   - Jean-Jacques Bouzaglou
 date: 2010-01-01
 venue: "ASLIB"

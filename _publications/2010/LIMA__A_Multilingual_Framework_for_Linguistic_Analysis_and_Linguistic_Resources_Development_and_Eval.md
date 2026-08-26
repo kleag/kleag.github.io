@@ -1,14 +1,14 @@
 ---
 title: "LIMA : A Multilingual Framework for Linguistic Analysis and Linguistic Resources Development and Evaluation"
 authors:
-  - Romaric Besançon
-  - Gaël Chalendar (de)
+  - Romaric Besan{\c c}on
+  - Ga{\"e}l Chalendar (de)
   - Olivier Ferret
-  - Faïza Gara
+  - Fa{\"i}za Gara
   - Nasredine Semmar
 date: 2010-01-01
-venue: "Proceedings of {Language} {Resources} and {Evaluation} {Conference}, 2010"
-venue_short: "Proceedings {Language}"
+venue: "Proceedings of {{Language Resources}} and {{Evaluation Conference}}, 2010"
+venue_short: "PRC"
 type: conference
 selected: false
 links:

@@ -1,18 +1,18 @@
 ---
-title: "Hybridation d'un agent conversationnel avec des plongements lexicaux pour la formation au diagnostic médical (Hybridization of a conversational agent with word embeddings for medical diagnostic training)"
+title: "Hybridation d'un agent conversationnel avec des plongements lexicaux pour la formation au diagnostic m\'edical (Hybridization of a conversational agent with word embeddings for medical diagnostic training)"
 authors:
-  - Fréjus A. A. Laleye
-  - Gaël Chalendar
+  - Fr{\'e}jus A. A. Laleye
+  - Ga{\"e}l {de Chalendar}
   - Antoine Brouquet
-  - Antonia Blanié
+  - Antonia Blani{\'e}
   - Dan Benhamou
 date: 2019-01-01
-venue: "Actes de la {Conférence} sur le {Traitement} {Automatique} des {Langues} {Naturelles} ({TALN}) {PFIA} 2019. {Volume} {II} : {Articles} courts"
-venue_short: "Actes de"
+venue: "{Actes de la Conf\'erence sur le Traitement Automatique des Langues Naturelles (TALN) PFIA 2019. Volume II : Articles courts}"
+venue_short: "CTALNPVIA"
 type: conference
 selected: false
 links:
-  paper: https://aclanthology.org/2019.jeptalnrecital-court.17
+
 ---
 
-Dans le contexte médical, un patient ou médecin virtuel dialoguant permet de former les apprenants au diagnostic médical via la simulation de manière autonome. Dans ce travail, nous avons exploité les propriétés sémantiques capturées par les représentations distribuées de mots pour la recherche de questions similaires dans le système de dialogues d'un agent conversationnel médical. Deux systèmes de dialogues ont été créés et évalués sur des jeux de données collectées lors des tests avec les apprenants. Le premier système fondé sur la correspondance de règles de dialogue créées à la main présente une performance globale de 92\% comme taux de réponses cohérentes sur le cas clinique étudié tandis que le second système qui combine les règles de dialogue et la similarité sémantique réalise une performance de 97\% de réponses cohérentes en réduisant de 7\% les erreurs de compréhension par rapport au système de correspondance de règles.
+Dans le contexte m\'edical, un patient ou m\'edecin virtuel dialoguant permet de former les apprenants au diagnostic m\'edical via la simulation de mani\`ere autonome. Dans ce travail, nous avons exploit\'e les propri\'et\'es s\'emantiques captur\'ees par les repr\'esentations distribu\'ees de mots pour la recherche de questions similaires dans le syst\`eme de dialogues d'un agent conversationnel m\'edical. Deux syst\`emes de dialogues ont \'et\'e cr\'e\'es et \'evalu\'es sur des jeux de donn\'ees collect\'ees lors des tests avec les apprenants. Le premier syst\`eme fond\'e sur la correspondance de r\`egles de dialogue cr\'e\'ees \`a la main pr\'esente une performance globale de 92\% comme taux de r\'eponses coh\'erentes sur le cas clinique \'etudi\'e tandis que le second syst\`eme qui combine les r\`egles de dialogue et la similarit\'e s\'emantique r\'ealise une performance de 97\% de r\'eponses coh\'erentes en r\'eduisant de 7\% les erreurs de compr\'ehension par rapport au syst\`eme de correspondance de r\`egles.
